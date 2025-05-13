@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar Reddy Molakathala</h1>
+<br>
 <h3 align="center">BTech in Computer Science | Full Stack Java Developer | Tech Explorer</h3>
 
 ---
+## 🌟 About Me
+I'm a passionate **Full Stack Java Developer** pursuing my B.Tech in Data Science (2021–2025) at Sri Venkateswara College of Engineering and Technology. I specialize in building robust backend APIs and user-friendly UIs using **Java**, **Spring Boot**, and **Angular**. My goal is to create impactful software that solves real-world problems. When not coding, I enjoy music 🎧 and action-thriller movies 🎬.
 
-🌟 **Career Objective**  
-An enthusiastic and dedicated individual aiming to apply my technical skills and contribute to organizational growth. I'm passionate about learning, coding, and building impactful software solutions.
+> "The best way to predict the future is to create it." – Peter Drucker
 
 ---
 
 ### 🔭 Current Status
 - 💻 Pursuing Java Full Stack Training with Angular, Spring Boot, JDBC & MySQL
-- 📚 Final year B.Tech in Data Science (2021–2025) – Sri Venkateswara College of Engineering and Technology
+- 📚 B.Tech in Computer Science (2021–2025) – Sri Venkateswara College of Engineering and Technology
 - 👨‍💻 Actively working on backend APIs, UI projects, and real-world app development
 
 ---
@@ -36,28 +38,38 @@ An enthusiastic and dedicated individual aiming to apply my technical skills and
 
 ---
 
-### 🧰 Tech Stack
-
+## 🧰 Tech Stack
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Other
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinaykumarreddy467&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinaykumarreddy467&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinaykumarreddy467&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinaykumarreddy467&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarreddy467&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarreddy467&layout=compact&theme=radical" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vinaykumarreddy467&theme=radical&no-frame=true" />
 </p>
+
+---
+
+## 📈 Profile Visitors
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Vinaykumarreddy467)
 
 ---
 
@@ -78,8 +90,9 @@ An enthusiastic and dedicated individual aiming to apply my technical skills and
 ---
 
 🧩 **Fun Fact:**  
-I love music, and I’m a fan of action-thriller and war-themed movies 🎧🎬
+I’m a music enthusiast 🎵 and love binge-watching action-thriller and war movies 🎬.
 
 ---
 
 ⭐ _Thanks for stopping by my profile! Feel free to explore my work and projects._
+Let’s build something amazing together! Explore my projects and reach out for collaborations. ⭐
