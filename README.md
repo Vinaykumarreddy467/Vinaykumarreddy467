@@ -31,10 +31,14 @@ I'm a passionate **Full Stack Java Developer** pursuing my B.Tech in Data Scienc
 ---
 
 ### 💼 Internships & Experience
-- ☕ [**Coffee Shop Admin Panel**](https://github.com/Vinaykumarreddy467/coffee/tree/main/COFFEE%20APIS) – Flask & MySQL backend project at Techno-Hub Foundation  
-- ☁️ [**Weather Data Analysis**](https://github.com/Vinaykumarreddy467/Weather_analysis) – Python & Pandas project analyzing meteorological data  
-- 💻 Java Full Stack Intern – Echo Brains Solutions, Bangalore  
-- 🧪 Hackathon Finalist – Presented a Python-based calculator with innovative logic
+- ☕ [**Coffee Shop Admin Panel**](https://github.com/Vinaykumarreddy467/coffee/tree/main/COFFEE%20APIS) **Techno-Hub Foundation  Bengaluru**
+   - Flask & MySQL backend project at Techno-Hub Foundation 
+- ☁️ [**Weather Data Analysis**](https://github.com/Vinaykumarreddy467/Weather_analysis) **AICTE**
+  - Python & Pandas project analyzing meteorological data  
+- 💻 **Java Full Stack Intern** **Bengaluru**
+  - Echo Brains Solutions  
+- 🧪 Hackathon Finalist, chittoor
+  - Presented a Python-based calculator with innovative logic
 
 ---
 
