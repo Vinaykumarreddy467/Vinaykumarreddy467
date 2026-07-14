@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinay-kumar-reddy-molakathala-0a510a216" target="_blank">
+  <a href="https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:vinaykumarreddy467@gmail.com">
