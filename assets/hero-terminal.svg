@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-label="Terminal running an agent pipeline that profiles Vinay Kumar Reddy">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8e44ad"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#00d2ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#8e44ad" flood-opacity="0.35"/>
+    </filter>
+    <style>
+      .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; }
+      .dim { fill: #8b949e; } .ok { fill: #7ee787; } .pur { fill: #c297ff; } .cy { fill: #79c0ff; }
+      .yel { fill: #e3b341; } .wh { fill: #e6edf3; } .pink { fill: #ff7b72; }
+      .l { opacity: 0; animation: show .35s ease-out forwards; }
+      .l1 { animation-delay: .4s } .l2 { animation-delay: 1.4s } .l3 { animation-delay: 2.2s }
+      .l4 { animation-delay: 3.0s } .l5 { animation-delay: 3.8s } .l6 { animation-delay: 4.6s }
+      .l7 { animation-delay: 5.4s } .l8 { animation-delay: 6.4s } .l9 { animation-delay: 7.4s }
+      .l10 { animation-delay: 8.2s }
+      @keyframes show { from { opacity: 0; transform: translateX(-6px) } to { opacity: 1; transform: translateX(0) } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      .border { stroke-dasharray: 2600; stroke-dashoffset: 2600; animation: draw 2.2s ease-out forwards; }
+      @keyframes draw { to { stroke-dashoffset: 0 } }
+      .bar { animation: fill 1.6s ease-in-out forwards; animation-delay: 6.5s; transform-box: fill-box; transform-origin: left; transform: scaleX(0); }
+      @keyframes fill { to { transform: scaleX(1) } }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="20" y="16" width="920" height="388" rx="14" fill="#0d1117" filter="url(#shadow)"/>
+  <rect class="border" x="20" y="16" width="920" height="388" rx="14" fill="none" stroke="url(#glow)" stroke-width="2"/>
+  <rect x="21" y="17" width="918" height="36" rx="13" fill="#161b22"/>
+  <rect x="21" y="40" width="918" height="13" fill="#161b22"/>
+  <circle cx="46" cy="35" r="6" fill="#ff5f57"/><circle cx="66" cy="35" r="6" fill="#febc2e"/><circle cx="86" cy="35" r="6" fill="#28c840"/>
+  <text x="480" y="40" text-anchor="middle" class="mono dim" font-size="13">vinay@bengaluru: ~/agents — zsh</text>
+
+  <!-- lines -->
+  <g class="mono">
+    <text class="l l1" x="44" y="88"><tspan class="ok">➜</tspan><tspan class="cy"> ~/agents</tspan><tspan class="wh"> agent run </tspan><tspan class="yel">--goal</tspan><tspan class="wh"> "who is Vinay?"</tspan></text>
+
+    <text class="l l2" x="44" y="124"><tspan class="pur">▸ router    </tspan><tspan class="wh">parse intent → structured query  </tspan><tspan class="dim">..........</tspan><tspan class="ok"> ok</tspan></text>
+    <text class="l l3" x="44" y="152"><tspan class="pur">▸ retriever </tspan><tspan class="wh">BM25 + pgvector, fused with RRF   </tspan><tspan class="dim">..........</tspan><tspan class="ok"> 50+ repos</tspan></text>
+    <text class="l l4" x="44" y="180"><tspan class="pur">▸ tools     </tspan><tspan class="wh">mcp://linkedin · mcp://github     </tspan><tspan class="dim">..........</tspan><tspan class="ok"> 37 posts</tspan></text>
+    <text class="l l5" x="44" y="208"><tspan class="pur">▸ memory    </tspan><tspan class="wh">context-layer://vinay             </tspan><tspan class="dim">..........</tspan><tspan class="ok"> loaded</tspan></text>
+    <text class="l l6" x="44" y="236"><tspan class="pur">▸ composer  </tspan><tspan class="wh">ground · cite · summarise         </tspan><tspan class="dim">..........</tspan><tspan class="ok"> done</tspan></text>
+    <text class="l l7" x="44" y="264"><tspan class="pur">▸ judge     </tspan><tspan class="wh">grounded=</tspan><tspan class="ok">true</tspan><tspan class="wh">  cited=</tspan><tspan class="ok">true</tspan><tspan class="wh">  hallucinated=</tspan><tspan class="pink">false</tspan></text>
+
+    <!-- progress bar -->
+    <g class="l l7">
+      <rect x="44" y="278" width="420" height="8" rx="4" fill="#21262d"/>
+      <rect class="bar" x="44" y="278" width="420" height="8" rx="4" fill="url(#glow)"/>
+    </g>
+
+    <text class="l l8" x="44" y="320"><tspan class="ok">✔ answer    </tspan><tspan class="wh">Gen AI Engineer who ships </tspan><tspan class="pur">RAG</tspan><tspan class="wh">, </tspan><tspan class="pur">multi-agent systems</tspan><tspan class="wh"> &amp; </tspan><tspan class="pur">MCP</tspan></text>
+    <text class="l l9" x="44" y="346"><tspan class="dim">            ↳ sources: github.com/Vinaykumarreddy467 · linkedin.com/in/molakathala-vinay-kumar-reddy</tspan></text>
+
+    <text class="l l10" x="44" y="382"><tspan class="ok">➜</tspan><tspan class="cy"> ~/agents</tspan><tspan class="wh"> </tspan></text>
+    <rect class="l l10 cursor" x="148" y="368" width="10" height="18" fill="#c297ff"/>
+  </g>
+</svg>

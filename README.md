@@ -16,7 +16,33 @@
   <img src="https://komarev.com/ghpvc/?username=Vinaykumarreddy467&color=8e44ad&style=for-the-badge&label=VISITORS" alt="Visitors">
 </p>
 
+<p align="center">
+  <a href="#recruiters"><img src="https://img.shields.io/badge/👔_RECRUITER-30--second_TL;DR-8e44ad?style=for-the-badge" alt="Recruiter path"/></a>
+  <a href="#engineers"><img src="https://img.shields.io/badge/🛠️_ENGINEER-show_me_the_code-302b63?style=for-the-badge" alt="Engineer path"/></a>
+  <a href="#collaborators"><img src="https://img.shields.io/badge/🤝_COLLABORATOR-let's_build-0f0c29?style=for-the-badge" alt="Collaborator path"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/hero-terminal.svg" width="100%" alt="Terminal: an agent pipeline profiles Vinay and answers 'Gen AI Engineer who ships RAG, multi-agent systems & MCP'"/>
+</p>
+
+<!-- ═══════════════════════════  RECRUITER TL;DR  ═══════════════════════════ -->
+
+<a id="recruiters"></a>
+## ⚡ TL;DR (30 seconds)
+
+| | |
+|---|---|
+| 🎯 **What I do** | Build **grounded LLM systems**: hybrid-search RAG, LangGraph multi-agent pipelines, MCP servers, with Spring Boot / FastAPI backends behind them |
+| 💼 **Experience** | Software Engineer Intern @ **Lifetrenz** · Gen AI Intern @ **Dr. Reddy's Foundation** · Frontend Dev on **Infosys.com** @ NeoSOFT (2,200+ pages, WCAG 2.1 AA) |
+| 🏆 **Proof** | Shipped at **both rounds** of the Amadeus × Contentstack "Beyond GenAI" hackathon · **Neo4j Certified Professional** · 4 **Anthropic** certifications · Open Source Connect India 2026 |
+| 🧪 **Engineering bar** | 237 tests on the rate-limiter · retrieval evals in Context Layer · LangSmith tracing · human-in-the-loop AI QA |
+| 📍 **Where** | Bengaluru · open to **Gen AI / AI Engineer** roles · [LinkedIn](https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/) · [Email](mailto:vinaykumarreddy467@gmail.com) |
+
 <!-- ═══════════════════════════  WHOAMI  ═══════════════════════════ -->
+
+<details>
+<summary><b>💻 <code>whoami --verbose</code> (the long version)</b></summary>
 
 ```bash
 vinay@bengaluru:~$ whoami --verbose
@@ -49,29 +75,21 @@ badges_earned:
 fun_fact: "My reaction latency at meetup quizzes is higher than the inference latency we spent the day discussing."
 ```
 
+</details>
+
 <!-- ═══════════════════════════  HOW I BUILD  ═══════════════════════════ -->
 
 ## 🧬 How I Build AI Systems
 
-```mermaid
-flowchart LR
-    U([👤 User intent]) --> R{{🧭 Router<br/>structured output}}
-    R -->|fan-out| A1[🔎 Retrieval agent<br/>BM25 + vectors + RRF]
-    R -->|fan-out| A2[🛠️ Tool agents<br/>APIs · MCP servers]
-    R -->|fan-out| A3[🧠 Memory<br/>Context Layer]
-    A1 --> C[[🧩 Composer<br/>grounded + cited]]
-    A2 --> C
-    A3 --> C
-    C --> J{⚖️ Judge / evals}
-    J -->|pass| O([✅ Answer with citations])
-    J -.->|retry| R
-    C -. traces .-> L[(📈 LangSmith)]
-```
+<p align="center">
+  <img src="./assets/agent-pipeline.svg" width="100%" alt="Animated agent pipeline: intent → router → retrieval / tools / memory → composer → judge → cited answer"/>
+</p>
 
 > Every project below is some remix of this loop: **retrieve → reason → cite → measure.**
 
 <!-- ═══════════════════════════  FLAGSHIP  ═══════════════════════════ -->
 
+<a id="engineers"></a>
 ## 🚀 Flagship Builds
 
 <table>
@@ -188,6 +206,21 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 
 </details>
 
+<!-- ═══════════════════════════  LATEST SHIPS  ═══════════════════════════ -->
+
+## 🛰️ Latest Ships <sub><sup>🤖 auto-updated daily by a GitHub Action</sup></sub>
+
+<!-- LATEST_SHIPS:START -->
+| | Repo | What it is | Lang | Last push |
+|---|---|---|---|---|
+| 🟢 | [**redis-api-rate-limiting-ddos-protection-poc**](https://github.com/Vinaykumarreddy467/redis-api-rate-limiting-ddos-protection-poc) | — | `Java` | yesterday |
+| 🟣 | [**task-manager**](https://github.com/Vinaykumarreddy467/task-manager) | Task Manager - Spring Boot + Angular task tracking with AI-assisted QA test-case genera… | `JavaScript` | 9 days ago |
+| 🟣 | [**knowledge-base-management-system**](https://github.com/Vinaykumarreddy467/knowledge-base-management-system) | A knowledge base management system: articles, uploaded documents, semantic search, and… | `Java` | 11 days ago |
+| 🟣 | [**Context_Layer**](https://github.com/Vinaykumarreddy467/Context_Layer) | — | `HTML` | 15 days ago |
+| 🟣 | [**Python_Gen_AI_Practice**](https://github.com/Vinaykumarreddy467/Python_Gen_AI_Practice) | — | `Jupyter Notebook` | 1 mo ago |
+| 🟣 | [**travel-assistant**](https://github.com/Vinaykumarreddy467/travel-assistant) | — | `TypeScript` | 1 mo ago |
+<!-- LATEST_SHIPS:END -->
+
 <!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
 
 ## ⚔️ Arsenal
@@ -217,6 +250,7 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 
 <!-- ═══════════════════════════  COMMUNITY  ═══════════════════════════ -->
 
+<a id="collaborators"></a>
 ## 🌍 Out in the Wild: Bengaluru AI Community
 
 <table>
@@ -244,6 +278,10 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 <!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
 
 ## 📡 Telemetry
+
+<!-- PULSE:START -->
+<p align="center"><sub>📦 <b>48</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; 🧠 most-used: <code>Java</code> · <code>HTML</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 11 Oct 2026</sub></p>
+<!-- PULSE:END -->
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinaykumarreddy467&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a06cd5&icon_color=a06cd5" alt="stats"/>

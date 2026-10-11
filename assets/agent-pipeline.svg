@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-label="Animated diagram: user intent flows through a router to retrieval, tools and memory agents, then a composer and a judge that either returns a cited answer or retries">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8e44ad"/><stop offset="100%" stop-color="#00d2ff"/>
+    </linearGradient>
+    <style>
+      .bg { fill: #0d1117; }
+      .node { fill: #161b22; stroke: url(#g); stroke-width: 1.6; }
+      .hot { fill: #1c1330; }
+      .t { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #e6edf3; font-size: 14px; font-weight: 700; text-anchor: middle; }
+      .s { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8b949e; font-size: 11px; text-anchor: middle; }
+      .e { fill: none; stroke: #6e40c9; stroke-width: 2; stroke-dasharray: 6 6; animation: flow 1.2s linear infinite; }
+      .r { fill: none; stroke: #ff7b72; stroke-width: 1.6; stroke-dasharray: 4 7; opacity: .75; animation: flow 1.6s linear infinite reverse; }
+      @keyframes flow { to { stroke-dashoffset: -24 } }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes pulse { 0%,100% { opacity: .55 } 50% { opacity: 1 } }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="960" height="330" rx="16"/>
+
+  <!-- edges -->
+  <path id="p0" class="e" d="M130,150 L170,150"/>
+  <path id="p1" class="e" d="M290,150 C315,150 315,60 340,60"/>
+  <path id="p2" class="e" d="M290,150 L340,150"/>
+  <path id="p3" class="e" d="M290,150 C315,150 315,240 340,240"/>
+  <path id="p4" class="e" d="M510,60 C535,60 535,150 560,150"/>
+  <path id="p5" class="e" d="M510,150 L560,150"/>
+  <path id="p6" class="e" d="M510,240 C535,240 535,150 560,150"/>
+  <path id="p7" class="e" d="M690,150 L730,150"/>
+  <path id="p8" class="e" d="M830,150 L852,150"/>
+  <path class="r" d="M780,175 C780,300 230,300 230,175"/>
+  <text class="s" x="505" y="296" fill="#ff7b72" style="fill:#ff7b72">retry when not grounded</text>
+
+  <!-- nodes -->
+  <g><rect class="node" x="20" y="125" width="110" height="50" rx="10"/><text class="t" x="75" y="148">👤 Intent</text><text class="s" x="75" y="164">natural language</text></g>
+  <g><rect class="node" x="170" y="125" width="120" height="50" rx="10"/><text class="t" x="230" y="148">🧭 Router</text><text class="s" x="230" y="164">structured output</text></g>
+  <g><rect class="node" x="340" y="35" width="170" height="50" rx="10"/><text class="t" x="425" y="58">🔎 Retrieval</text><text class="s" x="425" y="74">BM25 + vectors · RRF</text></g>
+  <g><rect class="node" x="340" y="125" width="170" height="50" rx="10"/><text class="t" x="425" y="148">🛠️ Tools</text><text class="s" x="425" y="164">APIs · MCP servers</text></g>
+  <g><rect class="node" x="340" y="215" width="170" height="50" rx="10"/><text class="t" x="425" y="238">🧠 Memory</text><text class="s" x="425" y="254">Context Layer</text></g>
+  <g><rect class="node hot pulse" x="560" y="125" width="130" height="50" rx="10"/><text class="t" x="625" y="148">🧩 Composer</text><text class="s" x="625" y="164">ground + cite</text></g>
+  <g><rect class="node" x="730" y="125" width="100" height="50" rx="10"/><text class="t" x="780" y="148">⚖️ Judge</text><text class="s" x="780" y="164">evals</text></g>
+  <g><rect class="node hot" x="852" y="125" width="92" height="50" rx="10"/><text class="t" x="898" y="148">✅ Answer</text><text class="s" x="898" y="164">with sources</text></g>
+
+  <!-- particles -->
+  <g fill="#00d2ff">
+    <circle r="4" opacity="0"><animateMotion dur="0.6s" begin="0s;  c8.end" repeatCount="1" id="c0"><mpath href="#p0"/></animateMotion><set attributeName="opacity" to="1" begin="c0.begin" end="c0.end"/></circle>
+    <circle r="4" opacity="0"><animateMotion dur="0.8s" begin="c0.end" id="c1"><mpath href="#p1"/></animateMotion><set attributeName="opacity" to="1" begin="c1.begin" end="c1.end"/></circle>
+    <circle r="4" opacity="0"><animateMotion dur="0.8s" begin="c0.end" id="c2"><mpath href="#p2"/></animateMotion><set attributeName="opacity" to="1" begin="c2.begin" end="c2.end"/></circle>
+    <circle r="4" opacity="0"><animateMotion dur="0.8s" begin="c0.end" id="c3"><mpath href="#p3"/></animateMotion><set attributeName="opacity" to="1" begin="c3.begin" end="c3.end"/></circle>
+    <circle r="4" opacity="0"><animateMotion dur="0.8s" begin="c1.end+0.4s" id="c4"><mpath href="#p4"/></animateMotion><set attributeName="opacity" to="1" begin="c4.begin" end="c4.end"/></circle>
+    <circle r="4" opacity="0"><animateMotion dur="0.8s" begin="c2.end+0.4s" id="c5"><mpath href="#p5"/></animateMotion><set attributeName="opacity" to="1" begin="c5.begin" end="c5.end"/></circle>
+    <circle r="4" opacity="0"><animateMotion dur="0.8s" begin="c3.end+0.4s" id="c6"><mpath href="#p6"/></animateMotion><set attributeName="opacity" to="1" begin="c6.begin" end="c6.end"/></circle>
+    <circle r="4" opacity="0"><animateMotion dur="0.6s" begin="c5.end+0.5s" id="c7"><mpath href="#p7"/></animateMotion><set attributeName="opacity" to="1" begin="c7.begin" end="c7.end"/></circle>
+    <circle r="5" fill="#7ee787" opacity="0"><animateMotion dur="0.5s" begin="c7.end+0.4s" id="c8"><mpath href="#p8"/></animateMotion><set attributeName="opacity" to="1" begin="c8.begin" end="c8.end"/></circle>
+  </g>
+
+  <text class="s" x="480" y="320">every hop traced in LangSmith · retrieve → reason → cite → measure</text>
+</svg>
