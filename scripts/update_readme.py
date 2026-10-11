@@ -1,7 +1,8 @@
 """Refresh the auto-generated sections of the profile README from the GitHub API.
 
 Rewrites the text between <!-- LATEST_SHIPS:START --> / <!-- LATEST_SHIPS:END -->
-and <!-- PULSE:START --> / <!-- PULSE:END -->. Run daily by .github/workflows/update-readme.yml.
+and <!-- PULSE:START --> / <!-- PULSE:END -->, and syncs the LinkedIn numbers from
+data/linkedin.json into the badges and hero SVGs. Run daily by .github/workflows/update-readme.yml.
 """
 
 import json
@@ -13,7 +14,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 USER = "Vinaykumarreddy467"
-README = Path(__file__).resolve().parent.parent / "README.md"
+ROOT = Path(__file__).resolve().parent.parent
+README = ROOT / "README.md"
+LINKEDIN = ROOT / "data" / "linkedin.json"
+HERO_SVGS = [ROOT / "assets" / "hero-terminal.svg", ROOT / "assets" / "hero-terminal-mobile.svg"]
 SKIP = {USER, "practice", "StudentManagement", "MultiAgents"}
 SHIPS = 6
 
@@ -62,12 +66,20 @@ def main():
     top = " · ".join(f"<code>{name}</code>" for name, _ in langs.most_common(5))
     stars = sum(r["stargazers_count"] for r in repos)
     stamp = datetime.now(timezone.utc).strftime("%d %b %Y")
+    li = json.loads(LINKEDIN.read_text(encoding="utf-8"))
+    posts, followers = li["posts"], li["followers"]
+    for svg in HERO_SVGS:
+        svg.write_text(re.sub(r">\d+ posts<", f">{posts} posts<", svg.read_text(encoding="utf-8")), encoding="utf-8")
+
     pulse = (f"<p align=\"center\"><sub>📦 <b>{len(repos)}</b> original repos &nbsp;·&nbsp; ⭐ <b>{stars}</b> stars "
+             f"&nbsp;·&nbsp; ✍️ <b>{posts}</b> LinkedIn posts "
              f"&nbsp;·&nbsp; 🧠 most-used: {top} &nbsp;·&nbsp; 🤖 auto-updated {stamp}</sub></p>")
 
     text = README.read_text(encoding="utf-8")
     text = replace(text, "LATEST_SHIPS", "\n".join(rows))
     text = replace(text, "PULSE", pulse)
+    text = re.sub(r"badge/LinkedIn-[\d,]+_followers", f"badge/LinkedIn-{followers:,}_followers", text)
+    text = re.sub(r"badge/✍️_Posts-\d+_on_LinkedIn", f"badge/✍️_Posts-{posts}_on_LinkedIn", text)
     README.write_text(text, encoding="utf-8")
 
 

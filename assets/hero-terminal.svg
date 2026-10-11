@@ -41,7 +41,7 @@
 
     <text class="l l2" x="44" y="124"><tspan class="pur">▸ router</tspan><tspan class="wh" x="160">parse intent → structured query</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">ok</tspan></text>
     <text class="l l3" x="44" y="152"><tspan class="pur">▸ retriever</tspan><tspan class="wh" x="160">BM25 + pgvector, fused with RRF</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">50+ repos</tspan></text>
-    <text class="l l4" x="44" y="180"><tspan class="pur">▸ tools</tspan><tspan class="wh" x="160">mcp://linkedin · mcp://github</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">37 posts</tspan></text>
+    <text class="l l4" x="44" y="180"><tspan class="pur">▸ tools</tspan><tspan class="wh" x="160">mcp://linkedin · mcp://github</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">39 posts</tspan></text>
     <text class="l l5" x="44" y="208"><tspan class="pur">▸ memory</tspan><tspan class="wh" x="160">context-layer://vinay</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">loaded</tspan></text>
     <text class="l l6" x="44" y="236"><tspan class="pur">▸ composer</tspan><tspan class="wh" x="160">ground · cite · summarise</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">done</tspan></text>
     <text class="l l7" x="44" y="264"><tspan class="pur">▸ judge</tspan><tspan class="wh" x="160">grounded=</tspan><tspan class="ok">true</tspan><tspan class="wh" dx="18">cited=</tspan><tspan class="ok">true</tspan><tspan class="wh" dx="18">hallucinated=</tspan><tspan class="pink">false</tspan></text>

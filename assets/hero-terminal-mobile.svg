@@ -39,7 +39,7 @@
 
     <g class="l l2"><text x="26" y="142"><tspan class="pur">▸ router</tspan><tspan class="wh" x="132">parse intent</tspan></text><text x="374" y="142" text-anchor="end" class="ok">ok</text></g>
     <g class="l l3"><text x="26" y="170"><tspan class="pur">▸ retriever</tspan><tspan class="wh" x="132">BM25+pgvector</tspan></text><text x="374" y="170" text-anchor="end" class="ok">50+ repos</text></g>
-    <g class="l l4"><text x="26" y="198"><tspan class="pur">▸ tools</tspan><tspan class="wh" x="132">mcp://linkedin</tspan></text><text x="374" y="198" text-anchor="end" class="ok">37 posts</text></g>
+    <g class="l l4"><text x="26" y="198"><tspan class="pur">▸ tools</tspan><tspan class="wh" x="132">mcp://linkedin</tspan></text><text x="374" y="198" text-anchor="end" class="ok">39 posts</text></g>
     <g class="l l5"><text x="26" y="226"><tspan class="pur">▸ memory</tspan><tspan class="wh" x="132">context-layer</tspan></text><text x="374" y="226" text-anchor="end" class="ok">loaded</text></g>
     <g class="l l6"><text x="26" y="254"><tspan class="pur">▸ composer</tspan><tspan class="wh" x="132">ground · cite</tspan></text><text x="374" y="254" text-anchor="end" class="ok">done</text></g>
     <g class="l l7">

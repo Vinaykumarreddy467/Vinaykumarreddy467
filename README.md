@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/"><img src="https://img.shields.io/badge/LinkedIn-1,247_followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/recent-activity/all/"><img src="https://img.shields.io/badge/✍️_Posts-39_on_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn posts"></a>
   <a href="mailto:vinaykumarreddy467@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://portfolio-pink-gamma-k8pt11kzv1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=Vinaykumarreddy467&color=8e44ad&style=for-the-badge&label=VISITORS" alt="Visitors">
@@ -237,7 +238,7 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 📡 Telemetry
 
 <!-- PULSE:START -->
-<p align="center"><sub>📦 <b>48</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; 🧠 most-used: <code>Java</code> · <code>HTML</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 11 Oct 2026</sub></p>
+<p align="center"><sub>📦 <b>48</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>Java</code> · <code>HTML</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 11 Oct 2026</sub></p>
 <!-- PULSE:END -->
 
 <p align="center">
