@@ -49,13 +49,14 @@ def main():
     repos = [r for r in api(f"/users/{USER}/repos?per_page=100&type=owner&sort=pushed")
              if not r["fork"] and r["name"] not in SKIP and r["size"] > 0]
 
-    rows = ["| | Repo | What it is | Lang | Last push |", "|---|---|---|---|---|"]
+    rows = []
     for i, r in enumerate(repos[:SHIPS]):
         dot = "🟢" if i == 0 else "🟣"
-        desc = (r["description"] or "—").replace("|", "/")
-        if len(desc) > 90:
-            desc = desc[:87].rstrip() + "…"
-        rows.append(f"| {dot} | [**{r['name']}**]({r['html_url']}) | {desc} | `{r['language'] or '—'}` | {ago(r['pushed_at'])} |")
+        desc = r["description"] or "—"
+        if len(desc) > 110:
+            desc = desc[:107].rstrip() + "…"
+        rows.append(f"- {dot} **[{r['name']}]({r['html_url']})** · `{r['language'] or '—'}` · <sub>pushed {ago(r['pushed_at'])}</sub><br/>"
+                    f"<sub>{desc}</sub>")
 
     langs = Counter(r["language"] for r in repos if r["language"])
     top = " · ".join(f"<code>{name}</code>" for name, _ in langs.most_common(5))

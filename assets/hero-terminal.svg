@@ -9,7 +9,7 @@
       <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#8e44ad" flood-opacity="0.35"/>
     </filter>
     <style>
-      .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; }
+      .mono { white-space: pre; font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 15px; }
       .dim { fill: #8b949e; } .ok { fill: #7ee787; } .pur { fill: #c297ff; } .cy { fill: #79c0ff; }
       .yel { fill: #e3b341; } .wh { fill: #e6edf3; } .pink { fill: #ff7b72; }
       .l { opacity: 0; animation: show .35s ease-out forwards; }
@@ -36,15 +36,15 @@
   <text x="480" y="40" text-anchor="middle" class="mono dim" font-size="13">vinay@bengaluru: ~/agents — zsh</text>
 
   <!-- lines -->
-  <g class="mono">
+  <g class="mono" xml:space="preserve">
     <text class="l l1" x="44" y="88"><tspan class="ok">➜</tspan><tspan class="cy"> ~/agents</tspan><tspan class="wh"> agent run </tspan><tspan class="yel">--goal</tspan><tspan class="wh"> "who is Vinay?"</tspan></text>
 
-    <text class="l l2" x="44" y="124"><tspan class="pur">▸ router    </tspan><tspan class="wh">parse intent → structured query  </tspan><tspan class="dim">..........</tspan><tspan class="ok"> ok</tspan></text>
-    <text class="l l3" x="44" y="152"><tspan class="pur">▸ retriever </tspan><tspan class="wh">BM25 + pgvector, fused with RRF   </tspan><tspan class="dim">..........</tspan><tspan class="ok"> 50+ repos</tspan></text>
-    <text class="l l4" x="44" y="180"><tspan class="pur">▸ tools     </tspan><tspan class="wh">mcp://linkedin · mcp://github     </tspan><tspan class="dim">..........</tspan><tspan class="ok"> 37 posts</tspan></text>
-    <text class="l l5" x="44" y="208"><tspan class="pur">▸ memory    </tspan><tspan class="wh">context-layer://vinay             </tspan><tspan class="dim">..........</tspan><tspan class="ok"> loaded</tspan></text>
-    <text class="l l6" x="44" y="236"><tspan class="pur">▸ composer  </tspan><tspan class="wh">ground · cite · summarise         </tspan><tspan class="dim">..........</tspan><tspan class="ok"> done</tspan></text>
-    <text class="l l7" x="44" y="264"><tspan class="pur">▸ judge     </tspan><tspan class="wh">grounded=</tspan><tspan class="ok">true</tspan><tspan class="wh">  cited=</tspan><tspan class="ok">true</tspan><tspan class="wh">  hallucinated=</tspan><tspan class="pink">false</tspan></text>
+    <text class="l l2" x="44" y="124"><tspan class="pur">▸ router</tspan><tspan class="wh" x="160">parse intent → structured query</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">ok</tspan></text>
+    <text class="l l3" x="44" y="152"><tspan class="pur">▸ retriever</tspan><tspan class="wh" x="160">BM25 + pgvector, fused with RRF</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">50+ repos</tspan></text>
+    <text class="l l4" x="44" y="180"><tspan class="pur">▸ tools</tspan><tspan class="wh" x="160">mcp://linkedin · mcp://github</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">37 posts</tspan></text>
+    <text class="l l5" x="44" y="208"><tspan class="pur">▸ memory</tspan><tspan class="wh" x="160">context-layer://vinay</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">loaded</tspan></text>
+    <text class="l l6" x="44" y="236"><tspan class="pur">▸ composer</tspan><tspan class="wh" x="160">ground · cite · summarise</tspan><tspan class="dim" x="500">··········</tspan><tspan class="ok" x="610">done</tspan></text>
+    <text class="l l7" x="44" y="264"><tspan class="pur">▸ judge</tspan><tspan class="wh" x="160">grounded=</tspan><tspan class="ok">true</tspan><tspan class="wh" dx="18">cited=</tspan><tspan class="ok">true</tspan><tspan class="wh" dx="18">hallucinated=</tspan><tspan class="pink">false</tspan></text>
 
     <!-- progress bar -->
     <g class="l l7">
@@ -52,8 +52,8 @@
       <rect class="bar" x="44" y="278" width="420" height="8" rx="4" fill="url(#glow)"/>
     </g>
 
-    <text class="l l8" x="44" y="320"><tspan class="ok">✔ answer    </tspan><tspan class="wh">Gen AI Engineer who ships </tspan><tspan class="pur">RAG</tspan><tspan class="wh">, </tspan><tspan class="pur">multi-agent systems</tspan><tspan class="wh"> &amp; </tspan><tspan class="pur">MCP</tspan></text>
-    <text class="l l9" x="44" y="346"><tspan class="dim">            ↳ sources: github.com/Vinaykumarreddy467 · linkedin.com/in/molakathala-vinay-kumar-reddy</tspan></text>
+    <text class="l l8" x="44" y="320"><tspan class="ok">✔ answer</tspan><tspan class="wh" x="160">Gen AI Engineer who ships </tspan><tspan class="pur" dx="9">RAG</tspan><tspan class="wh">, </tspan><tspan class="pur">multi-agent systems</tspan><tspan class="wh" dx="9">&amp;</tspan><tspan dx="9"></tspan><tspan class="pur">MCP</tspan></text>
+    <text class="l l9" x="44" y="346"><tspan class="dim" x="160">↳ sources: github.com/Vinaykumarreddy467 · linkedin</tspan></text>
 
     <text class="l l10" x="44" y="382"><tspan class="ok">➜</tspan><tspan class="cy"> ~/agents</tspan><tspan class="wh"> </tspan></text>
     <rect class="l l10 cursor" x="148" y="368" width="10" height="18" fill="#c297ff"/>
