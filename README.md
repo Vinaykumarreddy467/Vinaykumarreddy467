@@ -37,13 +37,11 @@
 <a id="recruiters"></a>
 ## ⚡ TL;DR (30 seconds)
 
-| | |
-|---|---|
-| 🎯 **What I do** | Build **grounded LLM systems**: hybrid-search RAG, LangGraph multi-agent pipelines, MCP servers, with Spring Boot / FastAPI backends behind them |
-| 💼 **Experience** | Software Engineer Intern @ **Lifetrenz** · Gen AI Intern @ **Dr. Reddy's Foundation** · Frontend Dev on **Infosys.com** @ NeoSOFT (2,200+ pages, WCAG 2.1 AA) |
-| 🏆 **Proof** | Shipped at **both rounds** of the Amadeus × Contentstack "Beyond GenAI" hackathon · **Neo4j Certified Professional** · 4 **Anthropic** certifications · Open Source Connect India 2026 |
-| 🧪 **Engineering bar** | 237 tests on the rate-limiter · retrieval evals in Context Layer · LangSmith tracing · human-in-the-loop AI QA |
-| 📍 **Where** | Bengaluru · open to **Gen AI / AI Engineer** roles · [LinkedIn](https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/) · [Email](mailto:vinaykumarreddy467@gmail.com) |
+- 🎯 **What I do**: Build **grounded LLM systems**: hybrid-search RAG, LangGraph multi-agent pipelines, MCP servers, with Spring Boot / FastAPI backends behind them
+- 💼 **Experience**: Software Engineer Intern @ **Lifetrenz** · Gen AI Intern @ **Dr. Reddy's Foundation** · Frontend Dev on **Infosys.com** @ NeoSOFT (2,200+ pages, WCAG 2.1 AA)
+- 🏆 **Proof**: Shipped at **both rounds** of the Amadeus × Contentstack "Beyond GenAI" hackathon · **Neo4j Certified Professional** · 4 **Anthropic** certifications · Open Source Connect India 2026
+- 🧪 **Engineering bar**: 237 tests on the rate-limiter · retrieval evals in Context Layer · LangSmith tracing · human-in-the-loop AI QA
+- 📍 **Where**: Bengaluru · open to **Gen AI / AI Engineer** roles · [LinkedIn](https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/) · [Email](mailto:vinaykumarreddy467@gmail.com)
 
 <!-- ═══════════════════════════  WHOAMI  ═══════════════════════════ -->
 
