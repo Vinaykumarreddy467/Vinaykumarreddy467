@@ -135,13 +135,6 @@ A custom **Reciprocal Rank Fusion** engine over ChromaDB (dense) and BM25 (spars
 
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square) ![](https://img.shields.io/badge/BM25-555?style=flat-square) ![](https://img.shields.io/badge/Docling-0F62FE?style=flat-square)
 
-### 🤖 [Auto Job Application Agent](https://github.com/Vinaykumarreddy467/auto-job-application-agent)
-> *12 agents · 13 tools · 0 cloud dependencies.*
-
-Discovers jobs, maps skill gaps against the JD, rewrites the resume, has an LLM judge score it, exports an ATS-ready PDF, drafts outreach and tracks it all on a live dashboard over WebSockets.
-
-![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Multi--Agent-8E44AD?style=flat-square) ![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
 ### ✅ [Task Manager with AI QA](https://github.com/Vinaykumarreddy467/task-manager)
 > *LLMs draft the test cases. Humans approve them. Nothing runs unreviewed.*
 
@@ -165,7 +158,7 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 - [n8n Workflows](https://github.com/Vinaykumarreddy467/n8n-workflows): Zero-paid-API Maps lead scraper, Google-tools AI agent <sub>`n8n, Make, Groq`</sub>
 - [Doc-Intelligent](https://github.com/Vinaykumarreddy467/Doc-Intelligent): Classify → extract → summarise, with human verification <sub>`Spring Boot, Ollama`</sub>
 - [Chat with Files](https://github.com/Vinaykumarreddy467/Chat_with_files): Talk to PDFs, DOCX and XLSX with local models <sub>`Spring Boot, Angular`</sub>
-- [LangChain4j Extractor](https://github.com/Vinaykumarreddy467/LangChain4j-Document-Extractor): Multi-format parsing + RAG-ready chunking in Java <sub>`LangChain4j`</sub>
+- [LangChain4j RAG Document Ingestion](https://github.com/Vinaykumarreddy467/langchain4j-rag-document-ingestion): Extracts 8 document formats and splits them into RAG-ready chunks, as a CLI or library <sub>`Java, LangChain4j`</sub>
 - [AI Resume Analyzer](https://github.com/Vinaykumarreddy467/Ai_Resume_Analyzer): ATS-style resume vs. JD scoring in ~2 s <sub>`FastAPI, Groq`</sub>
 - [Hybrid Search RAG](https://github.com/Vinaykumarreddy467/Hybrid_Search_RAG_over_Internal_Docs): The original RRF hybrid-search prototype <sub>`FastAPI, Chroma`</sub>
 - [TeamTask Manager](https://github.com/Vinaykumarreddy467/TeamTask-Manager) · [🟢 live](https://team-task-manager-seven-jade.vercel.app): Team task management <sub>`Spring Boot, React`</sub>
