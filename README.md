@@ -25,6 +25,7 @@
 - 🤖 Previously a **Gen AI Intern @ Dr. Reddy's Foundation**: LangChain, LangGraph, RAG, vector search, multi-agent systems and MCP
 - 🌐 Before that, a **Frontend Developer @ NeoSOFT** on the **Infosys.com** client engagement: 2,200+ pages, WCAG 2.1 AA accessibility and an AI-powered Text-to-Speech feature
 - 🧠 Currently building **Context Layer**, a persistent, model-agnostic memory layer for AI coding agents, served over MCP
+- 🏆 Built and shipped at **both rounds of the Amadeus × Contentstack "Beyond GenAI" hackathon**: an Enterprise Hybrid-Search RAG Assistant (Part 1) and a LangGraph multi-agent Travel Assistant (Part 2)
 - 🌱 Selected **Open Source Connect India 2026 Contributor**
 - 🎙️ Active in Bengaluru's AI community: volunteer at Neo4j and Amadeus × Contentstack events, and a regular at AI Dev Circle, KSUG.AI, null | OWASP and Bengaluru Tech Week
 - 🎓 B.Tech, Data Science Engineering, Sri Venkateswara College of Engineering & Technology (2025)
@@ -64,7 +65,7 @@ Six Redis-backed rate-limiting algorithms (fixed window, sliding window, token b
 <td width="50%" valign="top">
 
 ### ✈️ [AI Travel Assistant](https://github.com/Vinaykumarreddy467/travel-assistant)
-Built at the **Amadeus × Contentstack "Beyond GenAI" hackathon**. A deterministic **LangGraph** multi-agent graph: an intent router fans out to flight, hotel, weather and activity agents, then a composer builds a budget-aware, day-by-day itinerary. Fully traced in **LangSmith**.
+Built at the **Amadeus × Contentstack "Beyond GenAI" hackathon (Part 2)**. A deterministic **LangGraph** multi-agent graph: an intent router fans out to flight, hotel, weather and activity agents, then a composer builds a budget-aware, day-by-day itinerary. Fully traced in **LangSmith**.
 
 `LangGraph` `LangSmith` `Groq Llama 3.3` `Duffel API` `Streamlit`
 
@@ -73,8 +74,8 @@ Built at the **Amadeus × Contentstack "Beyond GenAI" hackathon**. A determinist
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Hybrid Search RAG over Internal Docs](https://github.com/Vinaykumarreddy467/Hybrid_Search_RAG_over_Internal_Docs)
-A RAG app with a custom **Reciprocal Rank Fusion** engine that fuses dense (ChromaDB) and sparse (BM25) retrieval. Layout-aware ingestion with **Docling**, a live weight-tuning sandbox and source-cited chat.
+### 🔎 [Enterprise RAG Assistant: Hybrid Search](https://github.com/Vinaykumarreddy467/Enterprise_RAG_Assistant)
+Built and submitted at the **Amadeus × Contentstack "Beyond GenAI" hackathon (Part 1)**. A RAG app with a custom **Reciprocal Rank Fusion** engine that fuses dense (ChromaDB) and sparse (BM25) retrieval. Layout-aware ingestion with **Docling**, a live weight-tuning sandbox and source-cited chat.
 
 `FastAPI` `ChromaDB` `BM25` `Docling` `Hugging Face`
 
@@ -116,13 +117,13 @@ Drop in URLs and query them as one document. An **n8n** webhook ingestion pipeli
 |---|---|---|
 | [yt-summarizer](https://github.com/Vinaykumarreddy467/yt-summarizer) | MCP server exposing YouTube transcripts as tools, resources and prompts | Python, FastMCP |
 | [Multi-Agent Research System](https://github.com/Vinaykumarreddy467/Multi-agent-research-system) | Search → reader → writer → critic agents that draft and self-review reports | LangChain, Groq, Streamlit |
-| [n8n Workflows](https://github.com/Vinaykumarreddy467/n8n-workflows) | AI automations: Maps lead scraper, Google-tools chat agent, Sheets + Groq pipelines | n8n, Groq, Google APIs |
+| [n8n Workflows](https://github.com/Vinaykumarreddy467/n8n-workflows) | Zero-paid-API Google Maps lead scraper, Google-tools AI chat agent, Sheets + Groq pipelines | n8n, Make, Groq, Google APIs |
 | [Doc-Intelligent](https://github.com/Vinaykumarreddy467/Doc-Intelligent) | Document classification, extraction and summarisation with a human verification step | Spring Boot, FastAPI, Ollama |
 | [Chat with Files](https://github.com/Vinaykumarreddy467/Chat_with_files) | Chat with PDF/DOCX/XLSX documents using local models | Spring Boot, Angular, Ollama |
 | [LangChain4j Document Extractor](https://github.com/Vinaykumarreddy467/LangChain4j-Document-Extractor) | Multi-format extraction plus RAG-ready chunking in Java | Java, LangChain4j |
 | [AI Resume Analyzer](https://github.com/Vinaykumarreddy467/Ai_Resume_Analyzer) | ATS-style resume vs. JD scoring with an animated dashboard | FastAPI, Groq |
 | [TeamTask Manager](https://github.com/Vinaykumarreddy467/TeamTask-Manager) · [live](https://team-task-manager-seven-jade.vercel.app) | Team task management app | Spring Boot, React, MySQL |
-| [AI Travel Planner](https://github.com/Vinaykumarreddy467/Travel_Planner) | LLM trip planner with live weather | FastAPI, Groq, OpenWeather |
+| [AI Travel Planner](https://github.com/Vinaykumarreddy467/Travel_Planner) | My first Gen AI project: LLM trip planner with live weather | FastAPI, Groq, OpenWeather |
 | [E-Commerce Website](https://github.com/Vinaykumarreddy467/E-Commerce_Website) | 30+ REST endpoints, JWT + RBAC, Razorpay payments | Spring Boot, React, MySQL |
 | [Insight Admin Panel](https://github.com/Vinaykumarreddy467/insight-admin-panel) | Full-stack admin dashboard | Spring Boot, Angular, MySQL |
 | [ZymSync Gym Management](https://github.com/Vinaykumarreddy467/Zym-Management-System) | Gym membership and operations system | Spring Boot, Angular 17, MySQL |
@@ -201,12 +202,19 @@ Drop in URLs and query them as one document. An **n8n** webhook ingestion pipeli
 
 ---
 
-## 🌍 Community
+## 🌍 Community & Learning in Public
 
-- 🧑‍🤝‍🧑 **Volunteer**, Neo4j Agentic AI Workshop (Bengaluru Tech Week 2026): helped attendees with Cypher, graph modelling and GraphRAG
-- 🏁 **Participant and volunteer**, Amadeus × Contentstack "Beyond GenAI" hackathon
-- 🌱 **Contributor**, Open Source Connect India 2026
-- 🎤 Regular at **AI Dev Circle**, **KSUG.AI**, **null | OWASP Bangalore**, **Snowflake World Tour**, **IBM Bob-a-thon**, **n8n Build Hours** and the **Self-Learning Agents Builders Mixer** (Microsoft), writing up what I learn on [LinkedIn](https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/)
+**Hackathons & volunteering**
+- 🏆 **Builder, Beyond GenAI hackathon Part 1** (Amadeus Software Labs, Jul 2026): shipped the Enterprise Hybrid-Search RAG Assistant
+- 🏆 **Builder, Beyond GenAI hackathon Part 2** (Sep 2026): shipped the LangGraph multi-agent AI Travel Assistant, and volunteered on the event ops team
+- 🧑‍🤝‍🧑 **Volunteer, Neo4j Agentic AI Workshop** (Bengaluru Tech Week 2026): earned Neo4j Certified Professional the night before, then helped attendees through Cypher, graph modelling and GraphRAG
+- 🌱 **Contributor, Open Source Connect India 2026**
+
+**Events I show up to (and write about)**<br>
+AI Dev Circle · KSUG.AI (KubeSmart & AI User Group) · null | OWASP Bangalore · Claude Community Bengaluru · Snowflake World Tour · IBM Bob-a-thon · n8n Builder Sessions · Local AI & Infra Meetup (vCluster × Jarvislabs) · Self-Learning Agents Builders Mixer (Microsoft) · Agentic DSA · Bengaluru Tech Week 2026
+
+**Topics I write about on [LinkedIn](https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/recent-activity/all/)**<br>
+LLM inference engineering (prefill/decode, speculative decoding) · agent memory & context engineering · self-hosting SLMs · MCP server design · graph-based codebase context for agents · open-model reviews · hands-on reviews of AI coding tools
 
 ---
 
