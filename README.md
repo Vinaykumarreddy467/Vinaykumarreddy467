@@ -1,91 +1,143 @@
-<h1 align="center">Hi, I'm Vinay Kumar Reddy Molakathala 👋</h1>
-
-<h3 align="center">Gen AI Engineer · RAG Systems · AI Agents · MCP · Full-Stack (Java + Python)</h3>
-
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  I build retrieval-grounded LLM applications, multi-agent systems and MCP tooling, and the production-grade backends they run on.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:8e44ad&height=220&section=header&text=Vinay%20Kumar%20Reddy&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Gen%20AI%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agents%20%E2%80%A2%20MCP&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="banner"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:vinaykumarreddy467@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://portfolio-pink-gamma-k8pt11kzv1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Bengaluru,_India-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bengaluru">
+  <a href="https://github.com/Vinaykumarreddy467">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A06CD5&center=true&vCenter=true&multiline=false&width=720&height=45&lines=I+build+LLM+systems+that+cite+their+sources.;Hybrid+search+%E2%80%A2+RRF+%E2%80%A2+pgvector+%E2%80%A2+GraphRAG;Multi-agent+graphs+with+LangGraph+%2B+LangSmith;Writing+MCP+servers+so+agents+never+forget;Spring+Boot+%2B+FastAPI+%E2%80%94+production+backends;Ship.+Measure.+Learn+in+public." alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vinaykumarreddy467&color=8e44ad&style=flat-square&label=Profile+views" alt="Profile views">
+  <a href="https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/"><img src="https://img.shields.io/badge/LinkedIn-1,247_followers-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vinaykumarreddy467@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://portfolio-pink-gamma-k8pt11kzv1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <img src="https://komarev.com/ghpvc/?username=Vinaykumarreddy467&color=8e44ad&style=for-the-badge&label=VISITORS" alt="Visitors">
 </p>
 
----
+<!-- ═══════════════════════════  WHOAMI  ═══════════════════════════ -->
 
-## 🧑‍💻 About Me
+```bash
+vinay@bengaluru:~$ whoami --verbose
+```
 
-- 🏢 **Software Engineer Intern @ Lifetrenz** (Bengaluru, Sep 2026 – present)
-- 🤖 Previously a **Gen AI Intern @ Dr. Reddy's Foundation**: LangChain, LangGraph, RAG, vector search, multi-agent systems and MCP
-- 🌐 Before that, a **Frontend Developer @ NeoSOFT** on the **Infosys.com** client engagement: 2,200+ pages, WCAG 2.1 AA accessibility and an AI-powered Text-to-Speech feature
-- 🧠 Currently building **Context Layer**, a persistent, model-agnostic memory layer for AI coding agents, served over MCP
-- 🏆 Built and shipped at **both rounds of the Amadeus × Contentstack "Beyond GenAI" hackathon**: an Enterprise Hybrid-Search RAG Assistant (Part 1) and a LangGraph multi-agent Travel Assistant (Part 2)
-- 🌱 Selected **Open Source Connect India 2026 Contributor**
-- 🎙️ Active in Bengaluru's AI community: volunteer at Neo4j and Amadeus × Contentstack events, and a regular at AI Dev Circle, KSUG.AI, null | OWASP and Bengaluru Tech Week
-- 🎓 B.Tech, Data Science Engineering, Sri Venkateswara College of Engineering & Technology (2025)
+```yaml
+name:        Vinay Kumar Reddy Molakathala
+role:        Gen AI Engineer  ·  Software Engineer Intern @ Lifetrenz
+location:    Bengaluru, India 🇮🇳
+mission:     "Make LLMs grounded, measurable, and actually useful in production."
 
----
+currently:
+  building:  Context Layer        # persistent, model-agnostic memory for AI coding agents (MCP + SurrealDB)
+  exploring: Graphify             # feeding agents a code graph instead of raw code, to beat "lost in the middle"
+  learning:  inference economics, agent evals, GraphRAG
 
-## 🚀 Featured Projects
+journey:
+  - 2026.09 → now   : Software Engineer Intern      @ Lifetrenz
+  - 2026.04 → 2026.08: Gen AI Intern                 @ Dr. Reddy's Foundation
+  - 2025.07 → 2025.12: Frontend Developer (Infosys.com) @ NeoSOFT   # 2,200+ pages · WCAG 2.1 AA · AI Text-to-Speech
+  - 2025.03 → 2025.06: Java Full-Stack Trainee       @ EduBridge
+  - 2023    → 2024   : Python Full-Stack (Techno-hub) · Data Analysis (APSSDC)
+
+badges_earned:
+  - 🏆 Built at BOTH rounds of the Amadeus × Contentstack "Beyond GenAI" hackathon
+  - 🧠 Neo4j Certified Professional  (cleared at 3 AM, taught Cypher at the workshop that same day)
+  - 🌱 Open Source Connect India 2026 contributor
+  - 🎓 Anthropic: MCP · Agent Skills · Claude Code 101 · Claude 101
+
+fun_fact: "My reaction latency at meetup quizzes is higher than the inference latency we spent the day discussing."
+```
+
+<!-- ═══════════════════════════  HOW I BUILD  ═══════════════════════════ -->
+
+## 🧬 How I Build AI Systems
+
+```mermaid
+flowchart LR
+    U([👤 User intent]) --> R{{🧭 Router<br/>structured output}}
+    R -->|fan-out| A1[🔎 Retrieval agent<br/>BM25 + vectors + RRF]
+    R -->|fan-out| A2[🛠️ Tool agents<br/>APIs · MCP servers]
+    R -->|fan-out| A3[🧠 Memory<br/>Context Layer]
+    A1 --> C[[🧩 Composer<br/>grounded + cited]]
+    A2 --> C
+    A3 --> C
+    C --> J{⚖️ Judge / evals}
+    J -->|pass| O([✅ Answer with citations])
+    J -.->|retry| R
+    C -. traces .-> L[(📈 LangSmith)]
+```
+
+> Every project below is some remix of this loop: **retrieve → reason → cite → measure.**
+
+<!-- ═══════════════════════════  FLAGSHIP  ═══════════════════════════ -->
+
+## 🚀 Flagship Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 [Context Layer](https://github.com/Vinaykumarreddy467/Context_Layer)
-Persistent, model-agnostic project memory for AI coding agents. Stores structured handoffs in **SurrealDB** and exposes **17 MCP tools** with full-text, vector and hybrid search, token-budgeted context assembly, handoff lineage and a retrieval-evaluation harness.
+> *"AI work loses momentum when the conversation gets too long, the model changes, or you switch platforms."*
 
-`Python` `MCP` `SurrealDB` `Hybrid Search`
+Persistent, model-agnostic project memory for AI coding agents. Structured handoffs in **SurrealDB**, **17 MCP tools**, full-text + vector + hybrid search, token-budgeted context assembly, handoff lineage and a **retrieval-evaluation harness**.
+
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/MCP-191919?style=flat-square&logo=anthropic&logoColor=white) ![](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat-square&logo=surrealdb&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 [Knowledge Base Management System](https://github.com/Vinaykumarreddy467/knowledge-base-management-system)
-A knowledge base with a **grounded AI assistant** that answers only from retrieved content and cites the exact chunks it used. Keyword plus **pgvector** semantic search, Tika ingestion, role-based access (Admin/Editor/Viewer) and an audit log, all running on local LLMs.
+> *An assistant that only answers from what it retrieved, and shows you the exact chunks.*
 
-`Spring Boot 3.5` `Java 21` `pgvector` `Angular 22` `Ollama`
+Grounded AI chat with citations, keyword + **pgvector** semantic search, Tika ingestion, Admin/Editor/Viewer RBAC and an audit log. **100% local**: Ollama embeddings and answers, so no data leaves the machine.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Redis API Rate Limiting & DDoS Protection](https://github.com/Vinaykumarreddy467/redis-api-rate-limiting-ddos-protection-poc)
-Six Redis-backed rate-limiting algorithms (fixed window, sliding window, token bucket, leaky bucket, concurrency leases) enforced atomically and **proven shared across two JVMs**. Dynamic admin policies, fail-open/fail-closed behaviour and **237 automated tests**.
-
-`Spring Boot` `Redis` `Angular` `Actuator`
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ [AI Travel Assistant](https://github.com/Vinaykumarreddy467/travel-assistant)
-Built at the **Amadeus × Contentstack "Beyond GenAI" hackathon (Part 2)**. A deterministic **LangGraph** multi-agent graph: an intent router fans out to flight, hotel, weather and activity agents, then a composer builds a budget-aware, day-by-day itinerary. Fully traced in **LangSmith**.
-
-`LangGraph` `LangSmith` `Groq Llama 3.3` `Duffel API` `Streamlit`
+![](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Angular_22-DD0031?style=flat-square&logo=angular&logoColor=white) ![](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Enterprise RAG Assistant: Hybrid Search](https://github.com/Vinaykumarreddy467/Enterprise_RAG_Assistant)
-Built and submitted at the **Amadeus × Contentstack "Beyond GenAI" hackathon (Part 1)**. A RAG app with a custom **Reciprocal Rank Fusion** engine that fuses dense (ChromaDB) and sparse (BM25) retrieval. Layout-aware ingestion with **Docling**, a live weight-tuning sandbox and source-cited chat.
+### 🛡️ [Redis Rate Limiting & DDoS Protection](https://github.com/Vinaykumarreddy467/redis-api-rate-limiting-ddos-protection-poc)
+> *First 429 at request **#101** for a limit of 100, enforced across **two separate JVMs**.*
 
-`FastAPI` `ChromaDB` `BM25` `Docling` `Hugging Face`
+Six atomic Redis algorithms (fixed window, sliding window, sliding-window counter, token bucket, leaky bucket, concurrency leases). Dynamic admin policies, fail-open/fail-closed modes and **237 green tests**.
+
+![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### ✈️ [AI Travel Assistant](https://github.com/Vinaykumarreddy467/travel-assistant) · 🏆 *Hackathon Part 2*
+> *From "plan me a trip" to a budget-aware, day-by-day itinerary in seconds.*
+
+A deterministic **LangGraph** state graph: an intent router fans out to flight, hotel, weather and activity agents, then a composer fans in. Live Duffel + OpenTripMap + OpenWeather data, dual-key Groq failover, and **every node traced in LangSmith**.
+
+![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 [Enterprise RAG Assistant](https://github.com/Vinaykumarreddy467/Enterprise_RAG_Assistant) · 🏆 *Hackathon Part 1*
+> *Semantic or keyword? Both, fused and tunable live.*
+
+A custom **Reciprocal Rank Fusion** engine over ChromaDB (dense) and BM25 (sparse), with layout-aware **Docling** ingestion, real-time weight sliders, an RRF score inspector and source-cited answers.
+
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square) ![](https://img.shields.io/badge/BM25-555?style=flat-square) ![](https://img.shields.io/badge/Docling-0F62FE?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 [Auto Job Application Agent](https://github.com/Vinaykumarreddy467/auto-job-application-agent)
-A **12-agent, 13-tool** pipeline that discovers jobs, analyses skill gaps against a JD, tailors the resume, has an LLM judge check its quality, exports an ATS-ready PDF and tracks everything on a dashboard. Runs fully locally.
+> *12 agents · 13 tools · 0 cloud dependencies.*
 
-`FastAPI` `Multi-Agent` `Angular` `Docling` `WebSockets`
+Discovers jobs, maps skill gaps against the JD, rewrites the resume, has an LLM judge score it, exports an ATS-ready PDF, drafts outreach and tracks it all on a live dashboard over WebSockets.
+
+![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Multi--Agent-8E44AD?style=flat-square) ![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 </td>
 </tr>
@@ -93,151 +145,133 @@ A **12-agent, 13-tool** pipeline that discovers jobs, analyses skill gaps agains
 <td width="50%" valign="top">
 
 ### ✅ [Task Manager with AI QA](https://github.com/Vinaykumarreddy467/task-manager)
-Task tracking with **LLM-generated test cases** (positive, negative, boundary, business-rule) and a human-in-the-loop review flow: Draft → Approve → Execute. Pluggable Groq, Gemini and Ollama providers with automatic fallback.
+> *LLMs draft the test cases. Humans approve them. Nothing runs unreviewed.*
 
-`Spring Boot 4` `Angular 22 SSR` `PostgreSQL` `Groq` `Gemini`
+Generates positive, negative, validation, boundary and business-rule cases, then moves them through Draft → Approve → Execute. Groq, Gemini and Ollama providers with automatic fallback.
+
+![](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/Angular_SSR-DD0031?style=flat-square&logo=angular&logoColor=white) ![](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧾 [Research Assistant with Memory](https://github.com/Vinaykumarreddy467/Research-Assistant-With-Memory)
-Drop in URLs and query them as one document. An **n8n** webhook ingestion pipeline feeds chunking and local Ollama embeddings into a citation-backed RAG over FastAPI, with React and Streamlit front ends.
+> *Drop in URLs. Ask questions across all of them like they're one document.*
 
-`FastAPI` `n8n` `Ollama` `React` `RAG`
+**n8n** webhook ingestion feeds chunking and local Ollama embeddings into a citation-backed RAG on FastAPI, with React and Streamlit front ends.
+
+![](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>🧰 Open the toolbox: 13 more builds</b></summary>
+<br>
 
-## 🧩 More Things I've Built
-
-| Project | What it is | Stack |
+| Build | One-liner | Stack |
 |---|---|---|
-| [yt-summarizer](https://github.com/Vinaykumarreddy467/yt-summarizer) | MCP server exposing YouTube transcripts as tools, resources and prompts | Python, FastMCP |
-| [Multi-Agent Research System](https://github.com/Vinaykumarreddy467/Multi-agent-research-system) | Search → reader → writer → critic agents that draft and self-review reports | LangChain, Groq, Streamlit |
-| [n8n Workflows](https://github.com/Vinaykumarreddy467/n8n-workflows) | Zero-paid-API Google Maps lead scraper, Google-tools AI chat agent, Sheets + Groq pipelines | n8n, Make, Groq, Google APIs |
-| [Doc-Intelligent](https://github.com/Vinaykumarreddy467/Doc-Intelligent) | Document classification, extraction and summarisation with a human verification step | Spring Boot, FastAPI, Ollama |
-| [Chat with Files](https://github.com/Vinaykumarreddy467/Chat_with_files) | Chat with PDF/DOCX/XLSX documents using local models | Spring Boot, Angular, Ollama |
-| [LangChain4j Document Extractor](https://github.com/Vinaykumarreddy467/LangChain4j-Document-Extractor) | Multi-format extraction plus RAG-ready chunking in Java | Java, LangChain4j |
-| [AI Resume Analyzer](https://github.com/Vinaykumarreddy467/Ai_Resume_Analyzer) | ATS-style resume vs. JD scoring with an animated dashboard | FastAPI, Groq |
-| [TeamTask Manager](https://github.com/Vinaykumarreddy467/TeamTask-Manager) · [live](https://team-task-manager-seven-jade.vercel.app) | Team task management app | Spring Boot, React, MySQL |
-| [AI Travel Planner](https://github.com/Vinaykumarreddy467/Travel_Planner) | My first Gen AI project: LLM trip planner with live weather | FastAPI, Groq, OpenWeather |
-| [E-Commerce Website](https://github.com/Vinaykumarreddy467/E-Commerce_Website) | 30+ REST endpoints, JWT + RBAC, Razorpay payments | Spring Boot, React, MySQL |
-| [Insight Admin Panel](https://github.com/Vinaykumarreddy467/insight-admin-panel) | Full-stack admin dashboard | Spring Boot, Angular, MySQL |
-| [ZymSync Gym Management](https://github.com/Vinaykumarreddy467/Zym-Management-System) | Gym membership and operations system | Spring Boot, Angular 17, MySQL |
-| [SympAI](https://github.com/Vinaykumarreddy467/Sympai) · [live](https://sym-ai-v8.vercel.app) | Symptom-based disease prediction (85% accuracy) | Flask, scikit-learn |
+| [yt-summarizer](https://github.com/Vinaykumarreddy467/yt-summarizer) | MCP server: YouTube transcripts as tools, resources and prompts | FastMCP |
+| [Multi-Agent Research System](https://github.com/Vinaykumarreddy467/Multi-agent-research-system) | Search → read → write → critique, self-reviewing reports | LangChain, Groq |
+| [n8n Workflows](https://github.com/Vinaykumarreddy467/n8n-workflows) | Zero-paid-API Maps lead scraper, Google-tools AI agent | n8n, Make, Groq |
+| [Doc-Intelligent](https://github.com/Vinaykumarreddy467/Doc-Intelligent) | Classify → extract → summarise, with human verification | Spring Boot, Ollama |
+| [Chat with Files](https://github.com/Vinaykumarreddy467/Chat_with_files) | Talk to PDFs, DOCX and XLSX with local models | Spring Boot, Angular |
+| [LangChain4j Extractor](https://github.com/Vinaykumarreddy467/LangChain4j-Document-Extractor) | Multi-format parsing + RAG-ready chunking in Java | LangChain4j |
+| [AI Resume Analyzer](https://github.com/Vinaykumarreddy467/Ai_Resume_Analyzer) | ATS-style resume vs. JD scoring in ~2 s | FastAPI, Groq |
+| [Hybrid Search RAG](https://github.com/Vinaykumarreddy467/Hybrid_Search_RAG_over_Internal_Docs) | The original RRF hybrid-search prototype | FastAPI, Chroma |
+| [TeamTask Manager](https://github.com/Vinaykumarreddy467/TeamTask-Manager) · [🟢 live](https://team-task-manager-seven-jade.vercel.app) | Team task management | Spring Boot, React |
+| [E-Commerce Website](https://github.com/Vinaykumarreddy467/E-Commerce_Website) | 30+ endpoints, JWT RBAC, Razorpay payments | Spring Boot, React |
+| [Insight Admin Panel](https://github.com/Vinaykumarreddy467/insight-admin-panel) | Full-stack admin dashboard | Spring Boot, Angular |
+| [ZymSync](https://github.com/Vinaykumarreddy467/Zym-Management-System) | Gym management system | Spring Boot, Angular |
+| [SympAI](https://github.com/Vinaykumarreddy467/Sympai) · [🟢 live](https://sym-ai-v8.vercel.app) | Symptom-based disease prediction (85% accuracy) | Flask, scikit-learn |
+| [AI Travel Planner](https://github.com/Vinaykumarreddy467/Travel_Planner) | 🐣 Where it all started: my first Gen AI project | FastAPI, Groq |
 
----
+</details>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
 
-**Gen AI & Agents**<br>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_/_FastMCP-191919?style=flat-square&logo=anthropic&logoColor=white)
-![LangChain4j](https://img.shields.io/badge/LangChain4j-3A3A3A?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Retrieval & Data**<br>
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat-square&logo=surrealdb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Backend**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Frontend**<br>
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Tools**<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 💼 Experience
-
-| Role | Organisation | Period |
-|---|---|---|
-| **Software Engineer Intern** | Lifetrenz | Sep 2026 – Present |
-| **Gen AI Intern** | Dr. Reddy's Foundation | Apr 2026 – Aug 2026 |
-| **Frontend Developer** (Infosys.com client engagement) | NeoSOFT | Jul 2025 – Dec 2025 |
-| **Java Full-Stack Trainee** | EduBridge Learning | Mar 2025 – Jun 2025 |
-| **Data Analysis Intern** | APSSDC | Jul 2024 – Sep 2024 |
-| **Python Full-Stack Intern** | Techno-hub Foundation | Aug 2023 – Sep 2023 |
-
----
-
-## 🏅 Certifications
-
-- **Neo4j Certified Professional**, Neo4j (2026)
-- **Introduction to Model Context Protocol**, Anthropic (2026)
-- **Introduction to Agent Skills**, Anthropic (2026)
-- **Claude Code 101** and **Claude 101**, Anthropic Academy (2026)
-- **Java Full Stack**, Capgemini Digital Academy (2025)
-- **Computer Vision 101**, Infosys Springboard
-- **Project Management Fundamentals**, IBM SkillsBuild
-
----
-
-## 🌍 Community & Learning in Public
-
-**Hackathons & volunteering**
-- 🏆 **Builder, Beyond GenAI hackathon Part 1** (Amadeus Software Labs, Jul 2026): shipped the Enterprise Hybrid-Search RAG Assistant
-- 🏆 **Builder, Beyond GenAI hackathon Part 2** (Sep 2026): shipped the LangGraph multi-agent AI Travel Assistant, and volunteered on the event ops team
-- 🧑‍🤝‍🧑 **Volunteer, Neo4j Agentic AI Workshop** (Bengaluru Tech Week 2026): earned Neo4j Certified Professional the night before, then helped attendees through Cypher, graph modelling and GraphRAG
-- 🌱 **Contributor, Open Source Connect India 2026**
-
-**Events I show up to (and write about)**<br>
-AI Dev Circle · KSUG.AI (KubeSmart & AI User Group) · null | OWASP Bangalore · Claude Community Bengaluru · Snowflake World Tour · IBM Bob-a-thon · n8n Builder Sessions · Local AI & Infra Meetup (vCluster × Jarvislabs) · Self-Learning Agents Builders Mixer (Microsoft) · Agentic DSA · Bengaluru Tech Week 2026
-
-**Topics I write about on [LinkedIn](https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/recent-activity/all/)**<br>
-LLM inference engineering (prefill/decode, speculative decoding) · agent memory & context engineering · self-hosting SLMs · MCP server design · graph-based codebase context for agents · open-model reviews · hands-on reviews of AI coding tools
-
----
-
-## 📊 GitHub Stats
+## ⚔️ Arsenal
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinaykumarreddy467&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarreddy467&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,fastapi,spring,flask,angular,react,tailwind&perline=10" alt="core skills"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,git,github,linux,vscode,postman,vercel&perline=10" alt="infra skills"/>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinaykumarreddy467&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-3A3A3A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<!-- ═══════════════════════════  COMMUNITY  ═══════════════════════════ -->
+
+## 🌍 Out in the Wild: Bengaluru AI Community
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏆 Built & volunteered**
+- **Beyond GenAI hackathon Part 1**: shipped the Enterprise RAG Assistant
+- **Beyond GenAI hackathon Part 2**: shipped the Travel Assistant, then helped run the event
+- **Neo4j Agentic AI Workshop**: volunteer mentor for Cypher and GraphRAG
+- **Open Source Connect India 2026**: contributor
+
+</td>
+<td width="50%" valign="top">
+
+**🎤 Rooms I keep showing up in**<br>
+`AI Dev Circle` `KSUG.AI` `null | OWASP` `Claude Community BLR` `Snowflake World Tour` `IBM Bob-a-thon` `n8n Builder Sessions` `Local AI & Infra Meetup` `Self-Learning Agents Mixer` `Bengaluru Tech Week 2026`
+
+</td>
+</tr>
+</table>
+
+> ✍️ I write up what I learn on [**LinkedIn**](https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/recent-activity/all/): inference engineering, agent memory, self-hosting SLMs, MCP server design, and honest reviews of AI coding tools.
+
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+
+## 📡 Telemetry
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vinaykumarreddy467&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a06cd5&icon_color=a06cd5" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinaykumarreddy467&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=a06cd5" alt="languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vinaykumarreddy467&theme=tokyonight&hide_border=true&ring=A06CD5&fire=A06CD5&currStreakLabel=A06CD5" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinaykumarreddy467/Vinaykumarreddy467/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution skyline"/>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vinaykumarreddy467/Vinaykumarreddy467/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Vinaykumarreddy467/Vinaykumarreddy467/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Vinaykumarreddy467/Vinaykumarreddy467/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
----
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
 
 <p align="center">
-  <b>Open to Gen AI / AI Engineer opportunities and collaborations on RAG, agents and MCP.</b><br>
-  Let's connect on <a href="https://www.linkedin.com/in/molakathala-vinay-kumar-reddy/">LinkedIn</a> or drop me an <a href="mailto:vinaykumarreddy467@gmail.com">email</a>.
+  <b>🔓 Open to Gen AI / AI Engineer roles and collabs on RAG, agents and MCP.</b><br/>
+  <sub>If you're building something where LLMs need to be <i>right</i>, not just fluent, let's talk.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e44ad,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer"/>
 </p>
