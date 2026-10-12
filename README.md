@@ -175,12 +175,12 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 🛰️ Latest Ships <sub><sup>🤖 auto-updated daily by a GitHub Action</sup></sub>
 
 <!-- LATEST_SHIPS:START -->
-- 🟢 **[redis-api-rate-limiting-ddos-protection-poc](https://github.com/Vinaykumarreddy467/redis-api-rate-limiting-ddos-protection-poc)** · `Java` · <sub>pushed yesterday</sub><br/><sub>—</sub>
-- 🟣 **[task-manager](https://github.com/Vinaykumarreddy467/task-manager)** · `JavaScript` · <sub>pushed 9 days ago</sub><br/><sub>Task Manager - Spring Boot + Angular task tracking with AI-assisted QA test-case generation via Groq, Gemin…</sub>
-- 🟣 **[knowledge-base-management-system](https://github.com/Vinaykumarreddy467/knowledge-base-management-system)** · `Java` · <sub>pushed 11 days ago</sub><br/><sub>A knowledge base management system: articles, uploaded documents, semantic search, and a grounded AI assist…</sub>
-- 🟣 **[Context_Layer](https://github.com/Vinaykumarreddy467/Context_Layer)** · `HTML` · <sub>pushed 15 days ago</sub><br/><sub>—</sub>
-- 🟣 **[Python_Gen_AI_Practice](https://github.com/Vinaykumarreddy467/Python_Gen_AI_Practice)** · `Jupyter Notebook` · <sub>pushed 1 mo ago</sub><br/><sub>—</sub>
-- 🟣 **[travel-assistant](https://github.com/Vinaykumarreddy467/travel-assistant)** · `TypeScript` · <sub>pushed 1 mo ago</sub><br/><sub>—</sub>
+- 🟢 **[portfolio](https://github.com/Vinaykumarreddy467/portfolio)** · `TypeScript` · <sub>pushed today</sub><br/><sub>—</sub>
+- 🟣 **[langchain4j-rag-document-ingestion](https://github.com/Vinaykumarreddy467/langchain4j-rag-document-ingestion)** · `Java` · <sub>pushed today</sub><br/><sub>Java RAG ingestion pipeline: extracts text from PDF, Word, PowerPoint, Excel, HTML, Markdown and text files…</sub>
+- 🟣 **[redis-api-rate-limiting-ddos-protection-poc](https://github.com/Vinaykumarreddy467/redis-api-rate-limiting-ddos-protection-poc)** · `Java` · <sub>pushed 2 days ago</sub><br/><sub>—</sub>
+- 🟣 **[task-manager](https://github.com/Vinaykumarreddy467/task-manager)** · `JavaScript` · <sub>pushed 10 days ago</sub><br/><sub>Task Manager - Spring Boot + Angular task tracking with AI-assisted QA test-case generation via Groq, Gemin…</sub>
+- 🟣 **[knowledge-base-management-system](https://github.com/Vinaykumarreddy467/knowledge-base-management-system)** · `Java` · <sub>pushed 12 days ago</sub><br/><sub>A knowledge base management system: articles, uploaded documents, semantic search, and a grounded AI assist…</sub>
+- 🟣 **[Context_Layer](https://github.com/Vinaykumarreddy467/Context_Layer)** · `HTML` · <sub>pushed 16 days ago</sub><br/><sub>—</sub>
 <!-- LATEST_SHIPS:END -->
 
 <!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
@@ -231,7 +231,7 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 📡 Telemetry
 
 <!-- PULSE:START -->
-<p align="center"><sub>📦 <b>48</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>Java</code> · <code>HTML</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 11 Oct 2026</sub></p>
+<p align="center"><sub>📦 <b>48</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>Java</code> · <code>HTML</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 12 Oct 2026</sub></p>
 <!-- PULSE:END -->
 
 <p align="center">
