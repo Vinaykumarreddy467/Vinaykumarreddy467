@@ -175,12 +175,12 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 🛰️ Latest Ships <sub><sup>🤖 auto-updated daily by a GitHub Action</sup></sub>
 
 <!-- LATEST_SHIPS:START -->
-- 🟢 **[voice-assistant](https://github.com/Vinaykumarreddy467/voice-assistant)** · `Python` · <sub>pushed 3 days ago</sub><br/><sub>Offline real-time dictation for the Linux desktop, powered by Whisper</sub>
-- 🟣 **[portfolio](https://github.com/Vinaykumarreddy467/portfolio)** · `TypeScript` · <sub>pushed 7 days ago</sub><br/><sub>—</sub>
-- 🟣 **[langchain4j-rag-document-ingestion](https://github.com/Vinaykumarreddy467/langchain4j-rag-document-ingestion)** · `Java` · <sub>pushed 7 days ago</sub><br/><sub>Java RAG ingestion pipeline: extracts text from PDF, Word, PowerPoint, Excel, HTML, Markdown and text files…</sub>
-- 🟣 **[redis-api-rate-limiting-ddos-protection-poc](https://github.com/Vinaykumarreddy467/redis-api-rate-limiting-ddos-protection-poc)** · `Java` · <sub>pushed 9 days ago</sub><br/><sub>—</sub>
-- 🟣 **[task-manager](https://github.com/Vinaykumarreddy467/task-manager)** · `JavaScript` · <sub>pushed 17 days ago</sub><br/><sub>Task Manager - Spring Boot + Angular task tracking with AI-assisted QA test-case generation via Groq, Gemin…</sub>
-- 🟣 **[knowledge-base-management-system](https://github.com/Vinaykumarreddy467/knowledge-base-management-system)** · `Java` · <sub>pushed 19 days ago</sub><br/><sub>A knowledge base management system: articles, uploaded documents, semantic search, and a grounded AI assist…</sub>
+- 🟢 **[Context_Layer](https://github.com/Vinaykumarreddy467/Context_Layer)** · `HTML` · <sub>pushed today</sub><br/><sub>—</sub>
+- 🟣 **[scale-blueprint-lab](https://github.com/Vinaykumarreddy467/scale-blueprint-lab)** · `JavaScript` · <sub>pushed today</sub><br/><sub>Learn system design by watching it run: live simulations + Swiggy, Uber, Netflix, IRCTC case studies</sub>
+- 🟣 **[voice-assistant](https://github.com/Vinaykumarreddy467/voice-assistant)** · `Python` · <sub>pushed 4 days ago</sub><br/><sub>Offline real-time dictation for the Linux desktop, powered by Whisper</sub>
+- 🟣 **[portfolio](https://github.com/Vinaykumarreddy467/portfolio)** · `TypeScript` · <sub>pushed 8 days ago</sub><br/><sub>—</sub>
+- 🟣 **[langchain4j-rag-document-ingestion](https://github.com/Vinaykumarreddy467/langchain4j-rag-document-ingestion)** · `Java` · <sub>pushed 8 days ago</sub><br/><sub>Java RAG ingestion pipeline: extracts text from PDF, Word, PowerPoint, Excel, HTML, Markdown and text files…</sub>
+- 🟣 **[redis-api-rate-limiting-ddos-protection-poc](https://github.com/Vinaykumarreddy467/redis-api-rate-limiting-ddos-protection-poc)** · `Java` · <sub>pushed 10 days ago</sub><br/><sub>—</sub>
 <!-- LATEST_SHIPS:END -->
 
 <!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
@@ -231,7 +231,7 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 📡 Telemetry
 
 <!-- PULSE:START -->
-<p align="center"><sub>📦 <b>49</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>Java</code> · <code>HTML</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 19 Oct 2026</sub></p>
+<p align="center"><sub>📦 <b>50</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>HTML</code> · <code>Java</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 20 Oct 2026</sub></p>
 <!-- PULSE:END -->
 
 <p align="center">
