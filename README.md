@@ -175,12 +175,12 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 🛰️ Latest Ships <sub><sup>🤖 auto-updated daily by a GitHub Action</sup></sub>
 
 <!-- LATEST_SHIPS:START -->
-- 🟢 **[portfolio](https://github.com/Vinaykumarreddy467/portfolio)** · `TypeScript` · <sub>pushed 6 days ago</sub><br/><sub>—</sub>
-- 🟣 **[voice-assistant](https://github.com/Vinaykumarreddy467/voice-assistant)** · `Python` · <sub>pushed 6 days ago</sub><br/><sub>Offline real-time dictation for the Linux desktop, powered by Whisper</sub>
-- 🟣 **[mimu-birthday-](https://github.com/Vinaykumarreddy467/mimu-birthday-)** · `HTML` · <sub>pushed 8 days ago</sub><br/><sub>—</sub>
-- 🟣 **[Context_Layer](https://github.com/Vinaykumarreddy467/Context_Layer)** · `HTML` · <sub>pushed 11 days ago</sub><br/><sub>—</sub>
-- 🟣 **[quickbite-coo-dashboard](https://github.com/Vinaykumarreddy467/quickbite-coo-dashboard)** · `Python` · <sub>pushed 11 days ago</sub><br/><sub>Streamlit + Snowflake Cortex AI dashboard: root-cause analysis of QuickBite's Sep-Oct 2026 refund spike</sub>
-- 🟣 **[scale-blueprint-lab](https://github.com/Vinaykumarreddy467/scale-blueprint-lab)** · `JavaScript` · <sub>pushed 25 days ago</sub><br/><sub>Learn system design by watching it run: live simulations + Swiggy, Uber, Netflix, IRCTC case studies</sub>
+- 🟢 **[portfolio](https://github.com/Vinaykumarreddy467/portfolio)** · `TypeScript` · <sub>pushed 7 days ago</sub><br/><sub>—</sub>
+- 🟣 **[voice-assistant](https://github.com/Vinaykumarreddy467/voice-assistant)** · `Python` · <sub>pushed 7 days ago</sub><br/><sub>Offline real-time dictation for the Linux desktop, powered by Whisper</sub>
+- 🟣 **[mimu-birthday-](https://github.com/Vinaykumarreddy467/mimu-birthday-)** · `HTML` · <sub>pushed 9 days ago</sub><br/><sub>—</sub>
+- 🟣 **[Context_Layer](https://github.com/Vinaykumarreddy467/Context_Layer)** · `HTML` · <sub>pushed 12 days ago</sub><br/><sub>—</sub>
+- 🟣 **[quickbite-coo-dashboard](https://github.com/Vinaykumarreddy467/quickbite-coo-dashboard)** · `Python` · <sub>pushed 12 days ago</sub><br/><sub>Streamlit + Snowflake Cortex AI dashboard: root-cause analysis of QuickBite's Sep-Oct 2026 refund spike</sub>
+- 🟣 **[scale-blueprint-lab](https://github.com/Vinaykumarreddy467/scale-blueprint-lab)** · `JavaScript` · <sub>pushed 26 days ago</sub><br/><sub>Learn system design by watching it run: live simulations + Swiggy, Uber, Netflix, IRCTC case studies</sub>
 <!-- LATEST_SHIPS:END -->
 
 <!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
@@ -231,7 +231,7 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 📡 Telemetry
 
 <!-- PULSE:START -->
-<p align="center"><sub>📦 <b>52</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>HTML</code> · <code>Java</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 13 Nov 2026</sub></p>
+<p align="center"><sub>📦 <b>52</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>HTML</code> · <code>Java</code> · <code>JavaScript</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 14 Nov 2026</sub></p>
 <!-- PULSE:END -->
 
 <p align="center">
