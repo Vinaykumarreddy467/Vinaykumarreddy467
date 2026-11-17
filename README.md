@@ -175,12 +175,12 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 🛰️ Latest Ships <sub><sup>🤖 auto-updated daily by a GitHub Action</sup></sub>
 
 <!-- LATEST_SHIPS:START -->
-- 🟢 **[linux-hero](https://github.com/Vinaykumarreddy467/linux-hero)** · `JavaScript` · <sub>pushed today</sub><br/><sub>—</sub>
-- 🟣 **[portfolio](https://github.com/Vinaykumarreddy467/portfolio)** · `TypeScript` · <sub>pushed yesterday</sub><br/><sub>—</sub>
-- 🟣 **[voice-assistant](https://github.com/Vinaykumarreddy467/voice-assistant)** · `Python` · <sub>pushed 9 days ago</sub><br/><sub>Offline real-time dictation for the Linux desktop, powered by Whisper</sub>
-- 🟣 **[mimu-birthday-](https://github.com/Vinaykumarreddy467/mimu-birthday-)** · `HTML` · <sub>pushed 11 days ago</sub><br/><sub>—</sub>
-- 🟣 **[Context_Layer](https://github.com/Vinaykumarreddy467/Context_Layer)** · `HTML` · <sub>pushed 14 days ago</sub><br/><sub>—</sub>
-- 🟣 **[quickbite-coo-dashboard](https://github.com/Vinaykumarreddy467/quickbite-coo-dashboard)** · `Python` · <sub>pushed 14 days ago</sub><br/><sub>Streamlit + Snowflake Cortex AI dashboard: root-cause analysis of QuickBite's Sep-Oct 2026 refund spike</sub>
+- 🟢 **[linux-hero](https://github.com/Vinaykumarreddy467/linux-hero)** · `JavaScript` · <sub>pushed yesterday</sub><br/><sub>—</sub>
+- 🟣 **[portfolio](https://github.com/Vinaykumarreddy467/portfolio)** · `TypeScript` · <sub>pushed 2 days ago</sub><br/><sub>—</sub>
+- 🟣 **[voice-assistant](https://github.com/Vinaykumarreddy467/voice-assistant)** · `Python` · <sub>pushed 10 days ago</sub><br/><sub>Offline real-time dictation for the Linux desktop, powered by Whisper</sub>
+- 🟣 **[mimu-birthday-](https://github.com/Vinaykumarreddy467/mimu-birthday-)** · `HTML` · <sub>pushed 12 days ago</sub><br/><sub>—</sub>
+- 🟣 **[Context_Layer](https://github.com/Vinaykumarreddy467/Context_Layer)** · `HTML` · <sub>pushed 15 days ago</sub><br/><sub>—</sub>
+- 🟣 **[quickbite-coo-dashboard](https://github.com/Vinaykumarreddy467/quickbite-coo-dashboard)** · `Python` · <sub>pushed 15 days ago</sub><br/><sub>Streamlit + Snowflake Cortex AI dashboard: root-cause analysis of QuickBite's Sep-Oct 2026 refund spike</sub>
 <!-- LATEST_SHIPS:END -->
 
 <!-- ═══════════════════════════  ARSENAL  ═══════════════════════════ -->
@@ -231,7 +231,7 @@ Generates positive, negative, validation, boundary and business-rule cases, then
 ## 📡 Telemetry
 
 <!-- PULSE:START -->
-<p align="center"><sub>📦 <b>53</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>HTML</code> · <code>JavaScript</code> · <code>Java</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 16 Nov 2026</sub></p>
+<p align="center"><sub>📦 <b>53</b> original repos &nbsp;·&nbsp; ⭐ <b>3</b> stars &nbsp;·&nbsp; ✍️ <b>39</b> LinkedIn posts &nbsp;·&nbsp; 🧠 most-used: <code>HTML</code> · <code>JavaScript</code> · <code>Java</code> · <code>Python</code> · <code>TypeScript</code> &nbsp;·&nbsp; 🤖 auto-updated 17 Nov 2026</sub></p>
 <!-- PULSE:END -->
 
 <p align="center">
